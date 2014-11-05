@@ -1,4 +1,4 @@
-KURRI_main_ring_tunes_zgoubi
+KURRI main ring simulation
 ============================
 Simulation model with zgoubi of the KURRI main ring
 
